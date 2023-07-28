@@ -1,5 +1,5 @@
 # viralink
-sending data from viralink server to a php web server & saving data to a mysql and then showing results with pagination.
+sending data from viralink server to a php web server via post method & saving data to a mysql and then showing results with pagination.
 you must change this values with your own myaql values : host,username,dbname,password,tablename.
 you need a web server with php version 7.4 and above.
 you can edit another values in codes if you know enough information about it.
