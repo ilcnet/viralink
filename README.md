@@ -8,3 +8,4 @@ you dont need to change values on the transformation script.
 you need insert host address and full directory on the endpoint url pattern External rest api call.
 drag a connection from save timeseries to transformation script and from transformation script to External rest api call.
 you can active debug mode to see logs.
+Dont forget to create a database with necessary rows on mysql!!!
